@@ -1,0 +1,6 @@
+faith
+99
+fortune
+100
+prince
+98
