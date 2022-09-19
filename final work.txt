@@ -1,0 +1,49 @@
+
+
+
+
+
+
+government
+The government of algeria uses cloud computing to boots its oil and gas production efficiency.
+sonatrach is a State-Owned Enterprise (SOE) that is dominant in the Algerian energy sector. 
+It is the largest company in Africa and the 11th largest oil consortium in the world. 
+By implementing new ICT technologies,The company’s digital transformation has already helped motivate management to improve its operational efficiency. 
+Going forward, Sonatrach, using its digital transformation to provide strong organizational support for future development. 
+After studying Sonatrach’s approach to ICT and the company’s future business development requirements, Huawei proposed a three-phase digital transformation strategy:
+The HUAWEI CLOUD Stack (HCS)
+The SAP Enterprise Resource Planning (ERP) system
+Innovative service platforms and big data services
+At Huawei Connect 2018, the Sonatrach project won the ‘Best Digital Enterprise Transformation of the Year’ award. 
+This award recognizes the project as a sterling example of future-proof digital transformation. 
+[https://e.huawei.com/ph/publications/global/ict_insights/201902271023/Success-Story/201904170833]
+
+
+
+
+education
+
+The COVID-19  has resulted  in schools  shut all across the  world. Globally, all children at schools or students at universities are out of the classroom. As a result, 
+education has changed dramatically.E-learning initiatives have advanced significantly as institutions and companies seek to overcome
+budgetary constraints while providing quality education and training services for students and
+employees with the notable rise of e-learning, whereby teaching is undertaken remotely and on digital platforms.On the public side, the National Centre for Professional Distance Education (Centre
+National de la Formation et de l’Enseignement Professionnels à Distance, CNEPD) became one of the
+first public institutions in the country to set up an e-learning platform in January 2018. Aimed at
+individuals seeking to expand their professional and technical competences, the CNEPD e-learning
+platform expands educational opportunities to individuals with physical or geographical constraints. The
+Algerian e-learning platform BeeForm launched in November 2017 with the aim of providing
+companies and public institutions with digital tools for training on a mass level. Among the first
+signatories of agreements with BeeForm were institutions from both the public and private sectors,
+including the public universities School of Commercial High Studies and Research Centre for Scientific
+and Technical Information, as well as local IT consultancy COSOFT Group and Algerian cloud services
+provider ISSAL, among other private firms.[digital learing with covvid 19 in algeria]
+
+IT
+Ooredoo Algeria has taken the first step towards next-generation networks with the successful deployment of what it claims is North Africa's first virtualized mobile gateway.
+Ooredoo Algeria has deployed Nokia's Cloud Mobile Gateway with plans for Nokia to deploy more gateways in the near future.[http://www.connectingafrica.com/author.asp?section_id=761&doc_id=752184].
+and this has lead to the highthe implementation of the cloud mobile gate way would help ooredo
+algeria meets customers need for data. Nokia said that the mobile gateway will also help Ooredoo Algeria deliver a seamless network experience across fixed and wireless access technologies. 
+With the help of the Nokia AirFrame data center solution, Ooredoo Algeria will also be able to deliver telco applications that demand low latency.[http://www.connectingafrica.com/author.asp?section_id=761&doc_id=752184]
+
+
+

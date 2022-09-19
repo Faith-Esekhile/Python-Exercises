@@ -1,0 +1,10 @@
+faith
+10
+fortune
+6
+queen
+5
+cherish
+2
+prince
+6
