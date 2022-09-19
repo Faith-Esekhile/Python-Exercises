@@ -1,0 +1,6 @@
+principal=float(input("enter the amount of principal originally entered into the bank"))
+rate=float(input("enter the annual intrest rate paid by the account"))
+time =float(input("number of times the intrest is compounded yearly or in a year"))
+years=float(input("number of years account would be left on intrest"))
+amount=principal*(1+(rate/time))**(time*years)
+print("the money in the account at the end of", years,"years would be",amount)
